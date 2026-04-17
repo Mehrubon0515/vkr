@@ -216,7 +216,3 @@ vkr/
 
 ---
 
-## Литература
-
-Makeig, S., Debener, S., Onton, J., & Delorme, A. (2004). Mining 
-event-related brain dynamics. Trends in Cognitive Sciences, 8(5), 204-210.
