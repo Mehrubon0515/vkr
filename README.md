@@ -77,15 +77,15 @@ ICA очистка от артефактов (моргание, мышцы, гл
 
 | Средние волны ЭЭГ по классам | ERSP карты по классам |
 |---|---|
-| ![ERP](experiment_1_letters/results/erp_waves.png) | ![ERSP](experiment_1_letters/results/ersp_maps.png) |
+| ![ERP](experiment_1_letters/erp_waves.png) | ![ERSP](experiment_1_letters/ersp_maps.png) |
 
 | FFT спектры по классам | Топографические карты |
 |---|---|
-| ![FFT](experiment_1_letters/results/fft_spectra.png) | ![Topomap](experiment_1_letters/results/topomap.png) |
+| ![FFT](experiment_1_letters/fft_spectra.png) | ![Topomap](experiment_1_letters/topomap.png) |
 
 | Матрицы ошибок | Итоговое сравнение |
 |---|---|
-| ![Confusion](experiment_1_letters/results/confusion_matrices.png) | ![Final](experiment_1_letters/results/final_comparison.png) |
+| ![Confusion](experiment_1_letters/confusion_matrices.png) | ![Final](experiment_1_letters/final_comparison.png) |
 
 ---
 
