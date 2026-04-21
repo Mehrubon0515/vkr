@@ -159,19 +159,19 @@ Flexion   → команда ВНИЗ
 
 | Временная структура эксперимента | Распределение классов |
 |---|---|
-| ![Timeline](experiment_2_hand/results/timeline.png) | ![Classes](experiment_2_hand/results/class_distribution.png) |
+| ![Timeline](experiment_2_hand/timeline.png) | ![Classes](experiment_2_hand/class_distribution.png) |
 
 | Волны ЭЭГ и ERSP по классам | Топографические карты |
 |---|---|
-| ![EEG](experiment_2_hand/results/eeg_by_class.png) | ![Topomap](experiment_2_hand/results/topomap_hand.png) |
+| ![EEG](experiment_2_hand/eeg_by_class.png) | ![Topomap](experiment_2_hand/topomap_hand.png) |
 
 | Важность признаков | ICA компоненты |
 |---|---|
-| ![Features](experiment_2_hand/results/feature_importance.png) | ![ICA](experiment_2_hand/results/ica_components_hand.png) |
+| ![Features](experiment_2_hand/feature_importance.png) | ![ICA](experiment_2_hand/ica_components_hand.png) |
 
 | Матрицы ошибок 3 класса | Иерархическая система |
 |---|---|
-| ![Confusion](experiment_2_hand/results/confusion_3class.png) | ![Final](experiment_2_hand/results/final_results_hand.png) |
+| ![Confusion](experiment_2_hand/confusion_3class.png) | ![Final](experiment_2_hand/final_results_hand.png) |
 
 ---
 
